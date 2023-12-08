@@ -22,6 +22,7 @@ public class Main {
         Member member = new Member();
         Subscription sub = new Subscription();
         CompetitionSwimmer compSwimmer = new CompetitionSwimmer();
+
         Coach coach = new Coach();
         Coach c1 = new Coach("Ben Dover");
         Coach c2 = new Coach("Shrek Shrekster");
